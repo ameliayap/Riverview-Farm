@@ -17,7 +17,7 @@ body, html {
 
   /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
   position: center;
-  /* Add a white text color to all elements inside the .bgimg container */
+  /* Add a black text color to all elements inside the .bgimg container */
   color: white;
   /* Add a font */
   font-family: "Courier New", Courier, monospace;
