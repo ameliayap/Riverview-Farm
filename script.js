@@ -1,4 +1,4 @@
-const SUBMIT_FORM_URL = "https://us-west2-riverviewfarm.cloudfunctions.net/send-contact-email";
+const SUBMIT_FORM_URL = "https://us-west2-riverviewfarm-308104.cloudfunctions.net/send-contact-email";
 
 /* This is for preloader chicken animation */
 //Giving preloader enough time to render
